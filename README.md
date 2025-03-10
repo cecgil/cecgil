@@ -47,6 +47,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cecgil/cecgil/output/snake.svg" alt="Snake animation" />
-
 ###
